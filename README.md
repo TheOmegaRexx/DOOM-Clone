@@ -1,4 +1,4 @@
-# Raycasting Game Engine
+# DOOM Clone
 
 This project is a simple raycasting-based 3D game engine implemented in Python using the Pygame library. Inspired by classic games like *Wolfenstein 3D* and *DOOM*, the engine demonstrates fundamental concepts of rendering 3D environments using 2D maps, raycasting, and game mechanics.
 
