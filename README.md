@@ -57,6 +57,6 @@ This project is a simple raycasting-based 3D game engine implemented in Python u
 
 # Credits
 
-This project was inspired by and partially based on by Clear Code
+This project was inspired by and partially based on by Clear Code and this [video](https://www.youtube.com/watch?v=ECqUrT7IdqQ)
 
 The 3D models used in this project are sourced from [Sprite Database](https://spritedatabase.net/game/760), specifically from the game featured on the site.
